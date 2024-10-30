@@ -38,6 +38,6 @@ Did you know? **Gwej yatim**—it’s a unique part of my story!
 
 Thanks for stopping by! Feel free to explore my repositories and projects. Let's connect! 🚀
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/willyyypatootieee)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=WillyPatootie)](https://github.com/willyyypatootieee)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/willyyypatootieee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillyPatootie&layout=compact)](https://github.com/willyyypatootieee)
