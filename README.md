@@ -1,8 +1,7 @@
 # Hi there! 👋
 
 ## 🎵 Listen to "Lifelike" by Porter Robinson
-
-<iframe src="https://open.spotify.com/embed/track/1n1RApLXtOg3yR0VYq6mTu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[Listen on Spotify](https://open.spotify.com/track/1n1RApLXtOg3yR0VYq6mTu)
 
 
 Welcome to my GitHub profile! I'm **willyyypatootieee**, and this is a ✨ _special_ ✨ repository that showcases my projects and interests.
