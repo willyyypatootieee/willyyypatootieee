@@ -1,35 +1,60 @@
-# Hi there! 👋
+# Hey there! 👋 Welcome to my GitHub Profile! 
 
-## 🎵 Listen to "Lifelike" by Porter Robinson
-[Listen on Spotify](https://open.spotify.com/track/1n1RApLXtOg3yR0VYq6mTu)
-
-
-Welcome to my GitHub profile! I'm **willyyypatootieee**, and this is a ✨ _special_ ✨ repository that showcases my projects and interests.
-
-## 🔭 Current Work
-I'm currently working on [mboh](link-to-your-project), where I’m exploring exciting new features and functionalities.
-
-## 🌱 Learning Journey
-I’m diving into understanding the complexities of **mempelajari isi hati assti**. It’s a fascinating journey of discovery!
-
-## 👯 Collaboration
-I’m looking to collaborate on projects related to **Riot Games**. If you have an idea or project in mind, let’s team up!
-
-## 💬 Let's Chat
-Feel free to ask me about why **I am yatim**. I love sharing my experiences and thoughts!
-
-## 📫 How to Reach Me
-You can find me on LinkedIn at [your-linkedin-profile](link-to-your-linkedin) or just drop me a message here!
-
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-Did you know? **Gwej yatim**—it’s a unique part of my story!
+🎶 **Currently Vibing To**: ["Lifelike" by Porter Robinson](https://open.spotify.com/track/1n1RApLXtOg3yR0VYq6mTu)
 
 ---
 
-### Tech Stack
+## 🚀 About Me
+
+Hello! I'm **willyyypatootieee**, a passionate developer who loves building cool projects and diving into new tech. I am constantly exploring and learning new things in the world of code and design, and I'm always up for a collaboration! 🌱
+
+---
+
+## 🔭 Current Work
+
+Right now, I'm working on [**mboh**](link-to-your-project), where I'm experimenting with **exciting new features**. Stay tuned for updates! 🚀
+
+---
+
+## 🌱 Learning Journey
+
+I'm currently deep into **mempelajari isi hati assti**, a project that's all about personal growth and understanding. Every day is a new opportunity to learn more about myself and the world around me.
+
+---
+
+## 👯 Collaboration
+
+Are you into **Riot Games** or game development in general? I’m always looking for new projects to team up on! Let’s make something awesome together.
+
+---
+
+## 💬 Let's Chat
+
+Want to know why **I am yatim**? Let’s chat! I love discussing my experiences and sharing insights.
+
+---
+
+## 📫 How to Reach Me
+
+Feel free to connect with me on [LinkedIn](link-to-your-linkedin-profile) or send me a message here!
+
+---
+
+## 😄 Pronouns
+
+He/Him ✨
+
+---
+
+## ⚡ Fun Fact
+
+**Gwej yatim** — it’s a unique and meaningful part of my journey. Ask me about it! 😁
+
+---
+
+### 💻 Tech Stack
+
+I'm always exploring and working with a variety of tools and languages. Here's a quick look at what I love to work with:
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -40,6 +65,15 @@ Did you know? **Gwej yatim**—it’s a unique part of my story!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
 </div>
 
-Thanks for stopping by! Feel free to explore my repositories and projects. Let's connect! 🚀
+---
+
+## 🌟 Thanks for stopping by!
+
+Feel free to explore my repositories, check out my projects, and let's connect! 🚀
+
+---
+
+*Made with ❤️ and a lot of code!*
