@@ -12,19 +12,13 @@ Hello! I'm **willyyypatootieee**, a passionate developer who loves building cool
 
 ## 🔭 Current Work
 
-Right now, I'm working on [**mboh**](link-to-your-project), where I'm experimenting with **exciting new features**. Stay tuned for updates! 🚀
+Right now, I'm working on -----, where I'm experimenting with **exciting new features**. Stay tuned for updates! 🚀
 
 ---
 
 ## 🌱 Learning Journey
 
-I'm currently deep into **mempelajari isi hati assti**, a project that's all about personal growth and understanding. Every day is a new opportunity to learn more about myself and the world around me.
-
----
-
-## 👯 Collaboration
-
-Are you into **Riot Games** or game development in general? I’m always looking for new projects to team up on! Let’s make something awesome together.
+I'm currently deep into **javasscript & flutter**, a project that's all about personal growth and understanding. Every day is a new opportunity to learn more about myself and the world around me.
 
 ---
 
