@@ -12,5 +12,6 @@ fast learner, short term.
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://readme-stats-gules-ten.vercel.app/api/top-langs/?username=willyyypatootieee&layout=donut-vertical&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-gules-ten.vercel.app/api/top-langs/?username=willyyypatootieee&layout=pie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
